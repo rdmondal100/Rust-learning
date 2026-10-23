@@ -1,0 +1,9 @@
+# Rust build artifacts
+**/target/
+
+# Rust/Cargo generated files
+**/*.rs.bk
+
+# Windows build artifacts
+*.exe
+*.pdb
